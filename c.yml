@@ -1,0 +1,5 @@
+export TOK='随带秘钥'
+export ARGO_DOMAIN='二级域名隧道'
+export UUID='a12eb952-b4ed-436a-ac00-a23c9df2c161'
+export VPATH='vls'
+export CF_IP='malaysia.com'
